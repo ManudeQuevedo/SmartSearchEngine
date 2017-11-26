@@ -8,5 +8,9 @@ Nowadays, searching for things in the internet it's something really common, wha
 
 There is no dedline to get this product into a live enviroment, however, developers are allowed to submit code that may help making this the best search engine ever.
 
+Used tools:
 
-
+- Neo4j as the GraphDB
+- Python as the engine
+- NginX as the SSR (Server Side Rendering)
+- Libraries
